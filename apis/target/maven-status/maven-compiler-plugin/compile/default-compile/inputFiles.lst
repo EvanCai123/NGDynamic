@@ -1,0 +1,11 @@
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/framework/model/ErrorModel.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/framework/providers/RequestFilter.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/entitymeta/EntityFieldMetaResourceV1.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/framework/util/RestThreadLocal.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/entity/EntityResourceV1.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/framework/util/ResponseHelper.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/user/UserResourceV1.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/framework/annotations/IgnoreAuthentication.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/user/UserProfileResourceV1.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/user/AuthenticationResourceV1.java
+/Users/Admin/Documents/workspace/ng/apis/src/main/java/com/ec/ng/apis/entitymeta/EntityMetaResourceV1.java

@@ -1,0 +1,12 @@
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/model/UserGroupModel.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/model/UserSession.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/model/UserModel.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/dao/UserDao.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/service/UserService.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/dao/imp/UserDaoImp.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/dao/processor/UserSessionProcessor.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/dao/processor/ContactProcessor.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/model/ContactModel.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/dao/processor/UserGroupProcessor.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/service/imp/UserServiceImp.java
+/Users/Admin/Documents/workspace/ng/user/src/main/java/com/ec/ng/user/dao/processor/UserProcessor.java

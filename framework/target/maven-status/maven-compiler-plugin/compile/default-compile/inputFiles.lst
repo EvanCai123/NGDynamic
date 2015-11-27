@@ -1,0 +1,17 @@
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/commonUtil/EncryptionUtil.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/commonUtil/SecurityUtil.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/dataUtil/DefaultDBResultSetProcessor.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/rest/providers/JSONProvider.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/dataUtil/JdbcUtil.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/commonUtil/ValidationUtil.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/dataUtil/ConnectionManager.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/idgenerator/UUIDGenerator.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/dataUtil/DbUtil.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/commonUtil/DateTimeUitl.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/dataUtil/NGConnectionManger.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/commonUtil/CommonUtil.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/model/ThreadLocalModel.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/dataUtil/DBAccessor.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/dataUtil/JDBCConnectionManager.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/dataUtil/DBResultSetProcessor.java
+/Users/Admin/Documents/workspace/ng/framework/src/main/java/com/ec/ng/framework/configurationUtil/ApplicationContextLoad.java

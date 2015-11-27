@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jaxrs="http://cxf.apache.org/jaxrs"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+           http://cxf.apache.org/jaxrs
+           http://cxf.apache.org/schemas/jaxrs.xsd">
+
+	<import resource="classpath:META-INF/cxf/cxf.xml" />
+	<import resource="classpath:META-INF/cxf/cxf-servlet.xml" />
+	
+	
+	<jaxrs:server id="rest" address="/">
+		<jaxrs:serviceBeans>
+			<bean id="entityMetaResourceV1" class="com.ec.ng.apis.entitymeta.EntityMetaResourceV1"></bean>
+			<bean id="entityFieldMetaResourceV1" class="com.ec.ng.apis.entitymeta.EntityFieldMetaResourceV1"></bean>
+			<bean id="entityResourceV1" class="com.ec.ng.apis.entity.EntityResourceV1"></bean>
+			<bean id="userResourceV1" class="com.ec.ng.apis.user.UserResourceV1"></bean>
+			<bean id="userProfileResourceV1" class="com.ec.ng.apis.user.UserProfileResourceV1"></bean>
+			<bean id="authenticationResourceV1" class="com.ec.ng.apis.user.AuthenticationResourceV1"></bean>
+			
+		</jaxrs:serviceBeans>
+		<jaxrs:providers>			
+			<!-- <bean id="jsonProvider" class="com.fasterxml.jackson.jaxrs.json.JacksonJaxbJsonProvider" /> -->
+			<bean id="requestFilter" class="com.ec.ng.apis.framework.providers.RequestFilter" />
+			<bean id="jsonProvider" class="com.ec.ng.framework.rest.providers.JSONProvider" />
+			
+		</jaxrs:providers>
+	</jaxrs:server>	
+</beans>
